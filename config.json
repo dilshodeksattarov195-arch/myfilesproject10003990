@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterselete",
+        "uuid": 35263620,
+        "checksum": "9pn91g"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
